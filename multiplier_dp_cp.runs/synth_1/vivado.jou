@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Sun Apr  9 18:20:43 2023
+# Process ID: 1976
+# Current directory: C:/Users/KOUSTAV/Desktop/Verilog projects/multiplier_dp_cp/multiplier_dp_cp.runs/synth_1
+# Command line: vivado.exe -log multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source multiplier.tcl
+# Log file: C:/Users/KOUSTAV/Desktop/Verilog projects/multiplier_dp_cp/multiplier_dp_cp.runs/synth_1/multiplier.vds
+# Journal file: C:/Users/KOUSTAV/Desktop/Verilog projects/multiplier_dp_cp/multiplier_dp_cp.runs/synth_1\vivado.jou
+# Running On: Koustav, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 16477 MB
+#-----------------------------------------------------------
+source multiplier.tcl -notrace
